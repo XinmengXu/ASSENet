@@ -1,6 +1,6 @@
-# Wave-U-Net-for-Speech-Enhancement
+# Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement, submitted to TASLP
 
-Implement [Wave-U-Net](https://arxiv.org/abs/1806.03185) by PyTorch, and migrate it to the speech enhancement.
+Implement [Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement] by PyTorch, and migrate it to the speech enhancement.
 
 ![](./doc/tensorboard.png)
 ![](./doc/audio.png)
