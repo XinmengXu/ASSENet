@@ -1,6 +1,6 @@
 # Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement, submitted to TASLP
 
-Implement [Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement] by PyTorch, and migrate it to the speech enhancement.
+Implement Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement by PyTorch.
 
 ![](./doc/tensorboard.png)
 ![](./doc/audio.png)
