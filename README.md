@@ -1,4 +1,4 @@
-# Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement, submitted to TASLP
+# Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement, submitted to TNNLS
 
 Implement Adaptive Selection of Local and Non-local Attention Mechanisms for Speech Enhancement by PyTorch.
 
